@@ -1,0 +1,13 @@
+# PyCharm config files
+.idea/*
+
+# Don't commit prduction setting's secret key
+lev/production_settings.py
+
+# Utilities/settings files
+lev/wsgi.py
+manage.py
+
+# Compiled python files
+*.pyo
+*.pyc
